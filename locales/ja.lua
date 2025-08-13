@@ -19,7 +19,7 @@ local Translations = {
     },
 
     misc = {
-        ["droppedplayer"] = "QBCoreから切断しました。"
+        ["droppedplayer"] = "QBCoreから切断されました"
     },
 
     ui = {
